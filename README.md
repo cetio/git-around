@@ -1,6 +1,9 @@
+[![AI qa3 - Pass](https://img.shields.io/badge/AI_qa3-Pass-2ea44f?logo=openai)](https://)
+[![python - 3.7+](https://img.shields.io/badge/python-3.7%2B-blue?logo=python)](https://)
+
 # git-around
 
-Automate Git housekeeping across multiple repositories via a YAML config and systemd integration.
+Automate Git housekeeping easily and configurably using Python, allows for easily maintaining and keeping your repositories or adjacent modules up to date and keeping tabs on your work.
 
 ## Features
 
